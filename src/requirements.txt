@@ -1,0 +1,8 @@
+elasticsearch
+argparse
+pandas
+seaborn
+numpy
+matplotlib
+sklearn
+mpl_toolkits
